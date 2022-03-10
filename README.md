@@ -1,4 +1,7 @@
-# loan-approver-algorithm
+# loan-approver
+
+## DISCLAIMER
+This is purely a hypothetical model and not meant to be used in the real world without significant testing and alteration.  
 
 ## Description
 Here are some loan applications with information like the applicant's name, personal details, financial information and requested loan amount and related details and the outcome(apporved or denied). Based on this information our model is going to predict if a loan will get approved or not.
